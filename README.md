@@ -9,6 +9,6 @@ this is my first edition of the edit-file
 ---
 
 1. Punkt 1
-2. Punkt 2
+1. Punkt 2
 
 ok.
